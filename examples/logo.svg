@@ -1,5 +1,5 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
   <rect width="300" height="200" x="0" y="0"
-        style="fill:pink;stroke:black;stroke-width:1" />
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="red" font-size="40">BIG</text>
+        style="fill:Blue;stroke:Blue;stroke-width:1" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="Green" font-size="40">MAY</text>
 </svg>
